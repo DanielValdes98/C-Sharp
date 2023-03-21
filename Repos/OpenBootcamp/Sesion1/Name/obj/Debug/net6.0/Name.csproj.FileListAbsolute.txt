@@ -1,0 +1,15 @@
+C:\Users\ingda\Source\Repos\Name\bin\Debug\net6.0\Name.exe
+C:\Users\ingda\Source\Repos\Name\bin\Debug\net6.0\Name.deps.json
+C:\Users\ingda\Source\Repos\Name\bin\Debug\net6.0\Name.runtimeconfig.json
+C:\Users\ingda\Source\Repos\Name\bin\Debug\net6.0\Name.dll
+C:\Users\ingda\Source\Repos\Name\bin\Debug\net6.0\Name.pdb
+C:\Users\ingda\Source\Repos\Name\obj\Debug\net6.0\Name.csproj.AssemblyReference.cache
+C:\Users\ingda\Source\Repos\Name\obj\Debug\net6.0\Name.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ingda\Source\Repos\Name\obj\Debug\net6.0\Name.AssemblyInfoInputs.cache
+C:\Users\ingda\Source\Repos\Name\obj\Debug\net6.0\Name.AssemblyInfo.cs
+C:\Users\ingda\Source\Repos\Name\obj\Debug\net6.0\Name.csproj.CoreCompileInputs.cache
+C:\Users\ingda\Source\Repos\Name\obj\Debug\net6.0\Name.dll
+C:\Users\ingda\Source\Repos\Name\obj\Debug\net6.0\refint\Name.dll
+C:\Users\ingda\Source\Repos\Name\obj\Debug\net6.0\Name.pdb
+C:\Users\ingda\Source\Repos\Name\obj\Debug\net6.0\Name.genruntimeconfig.cache
+C:\Users\ingda\Source\Repos\Name\obj\Debug\net6.0\ref\Name.dll

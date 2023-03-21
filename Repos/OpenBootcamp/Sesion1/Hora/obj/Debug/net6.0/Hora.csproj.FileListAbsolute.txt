@@ -1,0 +1,15 @@
+C:\Users\ingda\Source\Repos\Hora\bin\Debug\net6.0\Hora.exe
+C:\Users\ingda\Source\Repos\Hora\bin\Debug\net6.0\Hora.deps.json
+C:\Users\ingda\Source\Repos\Hora\bin\Debug\net6.0\Hora.runtimeconfig.json
+C:\Users\ingda\Source\Repos\Hora\bin\Debug\net6.0\Hora.dll
+C:\Users\ingda\Source\Repos\Hora\bin\Debug\net6.0\Hora.pdb
+C:\Users\ingda\Source\Repos\Hora\obj\Debug\net6.0\Hora.csproj.AssemblyReference.cache
+C:\Users\ingda\Source\Repos\Hora\obj\Debug\net6.0\Hora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ingda\Source\Repos\Hora\obj\Debug\net6.0\Hora.AssemblyInfoInputs.cache
+C:\Users\ingda\Source\Repos\Hora\obj\Debug\net6.0\Hora.AssemblyInfo.cs
+C:\Users\ingda\Source\Repos\Hora\obj\Debug\net6.0\Hora.csproj.CoreCompileInputs.cache
+C:\Users\ingda\Source\Repos\Hora\obj\Debug\net6.0\Hora.dll
+C:\Users\ingda\Source\Repos\Hora\obj\Debug\net6.0\refint\Hora.dll
+C:\Users\ingda\Source\Repos\Hora\obj\Debug\net6.0\Hora.pdb
+C:\Users\ingda\Source\Repos\Hora\obj\Debug\net6.0\Hora.genruntimeconfig.cache
+C:\Users\ingda\Source\Repos\Hora\obj\Debug\net6.0\ref\Hora.dll

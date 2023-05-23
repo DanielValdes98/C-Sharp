@@ -1,0 +1,15 @@
+C:\Users\Maghi\source\repos\LanzamientoExcepciones\LanzamientoExcepciones\obj\Debug\net6.0\LanzamientoExcepciones.csproj.AssemblyReference.cache
+C:\Users\Maghi\source\repos\LanzamientoExcepciones\LanzamientoExcepciones\obj\Debug\net6.0\LanzamientoExcepciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maghi\source\repos\LanzamientoExcepciones\LanzamientoExcepciones\obj\Debug\net6.0\LanzamientoExcepciones.AssemblyInfoInputs.cache
+C:\Users\Maghi\source\repos\LanzamientoExcepciones\LanzamientoExcepciones\obj\Debug\net6.0\LanzamientoExcepciones.AssemblyInfo.cs
+C:\Users\Maghi\source\repos\LanzamientoExcepciones\LanzamientoExcepciones\obj\Debug\net6.0\LanzamientoExcepciones.csproj.CoreCompileInputs.cache
+C:\Users\Maghi\source\repos\LanzamientoExcepciones\LanzamientoExcepciones\bin\Debug\net6.0\LanzamientoExcepciones.exe
+C:\Users\Maghi\source\repos\LanzamientoExcepciones\LanzamientoExcepciones\bin\Debug\net6.0\LanzamientoExcepciones.deps.json
+C:\Users\Maghi\source\repos\LanzamientoExcepciones\LanzamientoExcepciones\bin\Debug\net6.0\LanzamientoExcepciones.runtimeconfig.json
+C:\Users\Maghi\source\repos\LanzamientoExcepciones\LanzamientoExcepciones\bin\Debug\net6.0\LanzamientoExcepciones.dll
+C:\Users\Maghi\source\repos\LanzamientoExcepciones\LanzamientoExcepciones\bin\Debug\net6.0\LanzamientoExcepciones.pdb
+C:\Users\Maghi\source\repos\LanzamientoExcepciones\LanzamientoExcepciones\obj\Debug\net6.0\LanzamientoExcepciones.dll
+C:\Users\Maghi\source\repos\LanzamientoExcepciones\LanzamientoExcepciones\obj\Debug\net6.0\refint\LanzamientoExcepciones.dll
+C:\Users\Maghi\source\repos\LanzamientoExcepciones\LanzamientoExcepciones\obj\Debug\net6.0\LanzamientoExcepciones.pdb
+C:\Users\Maghi\source\repos\LanzamientoExcepciones\LanzamientoExcepciones\obj\Debug\net6.0\LanzamientoExcepciones.genruntimeconfig.cache
+C:\Users\Maghi\source\repos\LanzamientoExcepciones\LanzamientoExcepciones\obj\Debug\net6.0\ref\LanzamientoExcepciones.dll

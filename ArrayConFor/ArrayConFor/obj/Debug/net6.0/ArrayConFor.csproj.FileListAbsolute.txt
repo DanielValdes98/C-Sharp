@@ -1,0 +1,15 @@
+C:\Users\Maghi\source\repos\ArrayConFor\ArrayConFor\bin\Debug\net6.0\ArrayConFor.exe
+C:\Users\Maghi\source\repos\ArrayConFor\ArrayConFor\bin\Debug\net6.0\ArrayConFor.deps.json
+C:\Users\Maghi\source\repos\ArrayConFor\ArrayConFor\bin\Debug\net6.0\ArrayConFor.runtimeconfig.json
+C:\Users\Maghi\source\repos\ArrayConFor\ArrayConFor\bin\Debug\net6.0\ArrayConFor.dll
+C:\Users\Maghi\source\repos\ArrayConFor\ArrayConFor\bin\Debug\net6.0\ArrayConFor.pdb
+C:\Users\Maghi\source\repos\ArrayConFor\ArrayConFor\obj\Debug\net6.0\ArrayConFor.csproj.AssemblyReference.cache
+C:\Users\Maghi\source\repos\ArrayConFor\ArrayConFor\obj\Debug\net6.0\ArrayConFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maghi\source\repos\ArrayConFor\ArrayConFor\obj\Debug\net6.0\ArrayConFor.AssemblyInfoInputs.cache
+C:\Users\Maghi\source\repos\ArrayConFor\ArrayConFor\obj\Debug\net6.0\ArrayConFor.AssemblyInfo.cs
+C:\Users\Maghi\source\repos\ArrayConFor\ArrayConFor\obj\Debug\net6.0\ArrayConFor.csproj.CoreCompileInputs.cache
+C:\Users\Maghi\source\repos\ArrayConFor\ArrayConFor\obj\Debug\net6.0\ArrayConFor.dll
+C:\Users\Maghi\source\repos\ArrayConFor\ArrayConFor\obj\Debug\net6.0\refint\ArrayConFor.dll
+C:\Users\Maghi\source\repos\ArrayConFor\ArrayConFor\obj\Debug\net6.0\ArrayConFor.pdb
+C:\Users\Maghi\source\repos\ArrayConFor\ArrayConFor\obj\Debug\net6.0\ArrayConFor.genruntimeconfig.cache
+C:\Users\Maghi\source\repos\ArrayConFor\ArrayConFor\obj\Debug\net6.0\ref\ArrayConFor.dll
